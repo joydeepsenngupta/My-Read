@@ -1,8 +1,7 @@
 
 **MyReads: A Book Tracking App**
 
-**About the project
-**
+**About the project**
 This is the first project in the React Nanodegree Program by Udacity.
 
 The aim is to use React to create a bookshelf app that allows the user to select and categorise books they have read, are currently reading, or want to read.
